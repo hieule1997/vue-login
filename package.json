@@ -16,7 +16,7 @@
   "dependencies": {
     "@chenfengyuan/vue-carousel": "^1.0.2",
     "aos": "^3.0.0-beta.6",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "bootstrap-vue": "^2.0.0-rc.21",
     "vue": "^2.6.10",
